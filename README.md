@@ -1,5 +1,11 @@
-# Hi there! I'm Nicolás 👋
-> Web UI Developer at [Globant](https://globant.com)
+# Hi there! I'm Nicolás 🖥️💻
+
+<p>🏢 I am working as a Web UI Developer at [Globant](https://www.globant.com/)</p>
+<p>📚 I want to learn about web performance and accesibility</p>
+<p>👯 I will start writing articles in [Medium](https://medium.com/@nicolasomar) and [dev.to](https://dev.to/nicolasomar) soon</p>
+<p>💬 Let's talk about UX, libraries, and dark mode</p>
+
+<img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/master/assets/assets/pusheencode.gif"/>
 
 ## Languages, Libraries & Frameworks
 | Using | Learning | Want to learn | Had used |
@@ -15,9 +21,9 @@
 [![NicolasOmar GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasomar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nicolasomar)
 <p>For a more detailed resume. Go to my <a href="https://sourcerer.io/nicolasomar" target="_blank">Sourcerer</a> </p>
 
-## My social side
+## How to contact me
 <a href="https://www.linkedin.com/in/nicolas0mar/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="48px" title="My LinkedIn" alt="My LinkedIn"></a>
 <!-- &nbsp; &nbsp;
 <a href="mailto:nicolas.passerino@gmail.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="48px" title="My mail" alt="My mail"></a> -->
 
-### But wait, here are my best repos for you 👇 ###
+### Here are my best repos for you 👇 ###
