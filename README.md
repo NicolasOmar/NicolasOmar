@@ -5,7 +5,7 @@
 <p>👯 I will start writing articles in <a href="https://medium.com/@nicolasomar">Medium</a> and <a href="https://dev.to/nicolasomar">dev.to</a> soon</p>
 <p>💬 Let's talk about UX, libraries, and dark mode</p>
 
-<img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/master/assets/pusheencode.gif"/>
+<img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/main/assets/pusheencode.gif"/>
 
 ## Languages, Libraries & Frameworks
 | Using | Learning | Want to learn | Had used |
