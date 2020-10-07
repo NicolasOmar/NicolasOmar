@@ -1,11 +1,11 @@
 # Hi there! I'm Nicolás 🖥️💻
 
+<img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/main/assets/pusheencode.gif"/>
+
 <p>🏢 I am working as a Web UI Developer at <a href="https://www.globant.com">Globant</a></p>
 <p>📚 I want to learn about web performance and accesibility</p>
 <p>👯 I will start writing articles in <a href="https://medium.com/@nicolasomar">Medium</a> and <a href="https://dev.to/nicolasomar">dev.to</a> soon</p>
 <p>💬 Let's talk about UX, libraries, and dark mode</p>
-
-<img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/main/assets/pusheencode.gif"/>
 
 ## Languages, Libraries & Frameworks
 | Using | Learning | Want to learn | Had used |
