@@ -2,10 +2,10 @@
 
 <img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/main/assets/pusheencode.gif"/>
 
-<p>:briefcase: I am working as a Web UI Developer at <a href="https://www.globant.com">Globant</a></p>.
-<p>:books: I want to learn about web performance and accesibility</p>.
-<p>:black_nib: I will start writing articles in <a href="https://medium.com/@nicolasomar">Medium</a> and <a href="https://dev.to/nicolasomar">DEV</a> soon</p>.
-<p>:speech_balloon: Let's talk about UX, libraries, and dark mode</p>.
+<p>:briefcase: I am working as a Web UI Developer at <a href="https://www.globant.com">Globant</a>.</p>
+<p>:books: I want to learn about web performance and accesibility.</p>
+<p>:black_nib: I will start writing articles in <a href="https://medium.com/@nicolasomar">Medium</a> and <a href="https://dev.to/nicolasomar">DEV</a> soon.</p>
+<p>:speech_balloon: Let's talk about UX, libraries, and dark mode.</p>
 
 ## Languages, Libraries & Frameworks
 | Using | Learning | Want to learn | Had used |
@@ -18,7 +18,7 @@
 | [<img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" title="Visual Studio Code" alt="Visual Studio Code" width="48px">](https://code.visualstudio.com/) [<img src="https://cdn.svgporn.com/logos/git-icon.svg" title="Git" alt="Git" width="48px">](https://git-scm.com/) [<img src="https://cdn.svgporn.com/logos/azure-icon.svg" title="Azure DevOps" alt="Azure DevOps" width="48px">](https://azure.microsoft.com/en-us/services/devops/) [<img src="https://cdn.svgporn.com/logos/github-icon.svg" title="Github" alt="Github" width="48px">](https://github.com/) [<img src="https://cdn.svgporn.com/logos/npm.svg" title="NPM" alt="NPM" width="48px">](https://www.npmjs.com/) | [<img src="https://cdn.svgporn.com/logos/heroku-icon.svg" title="Heroku" alt="Heroku" width="48px">](https://www.heroku.com/) [<img src="https://cdn.svgporn.com/logos/postman.svg" title="Postman" alt="Postman" width="48px">](https://www.postman.com/) | [<img src="https://user-images.githubusercontent.com/30958501/68524412-f2201800-0309-11ea-9cb0-ad7f8f760218.png" title="Github Actions" alt="Github Actions" width="48px">](https://github.com/features/actions) [<img src="https://cdn.svgporn.com/logos/codecov.svg" title="Codecov" alt="Codecov" width="48px">](https://codecov.io/) [<img src="https://cdn.svgporn.com/logos/swagger.svg" title="Swagger" alt="Swagger" width="48px">](https://swagger.io/) | [<img src="https://cdn.svgporn.com/logos/visual-studio.svg" title="Visual Studio" alt="Visual Studio" width="48px">](https://visualstudio.microsoft.com/vs/) [<img src="https://financesonline.com/uploads/2018/09/Microsoft-Team-Foundation-Server-logo-1.png" title="Team Foundation Service" alt="Team Foundation Service" width="110px">](https://docs.microsoft.com/en-us/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops-2020) |
 
 ## Stats
-[![NicolasOmar GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasomar&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/nicolasomar)
+[![NicolasOmar GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicolasomar&include_all_commits=true&show_icons=true&theme=tokyonight)](https://github.com/nicolasomar)
 <p>For a more detailed view. Go to my <a href="https://sourcerer.io/nicolasomar" target="_blank">Sourcerer</a> </p>
 
 ## How to contact me
