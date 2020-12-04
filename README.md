@@ -22,10 +22,8 @@
   <p>For a more detailed view. Go to my <a href="https://profile.codersrank.io/user/nicolasomar" target="_blank">CodersRank profile</a></p>.
 
   ## How to contact me
-  <a href="https://www.linkedin.com/in/nicolas0mar/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="48px" title="My LinkedIn | nicolas0mar" alt="My LinkedIn | nicolas0mar"></a>
-  <!-- &nbsp; &nbsp;
-  <a href="https://medium.com/@nicolasomar" target="_blank"><img src="https://cdn.svgporn.com/logos/medium.svg" width="48px" title="My Medium | @nicolasomar" alt="My Medium | @nicolasomar"></a> -->
-  &nbsp; &nbsp;
-  <a href="https://dev.to/nicolasomar" target="_blank"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="48px" title="My DEV | nicolasomar" alt="My DEV | nicolasomar"></a>
+  [<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="My LinkedIn | nicolas0mar" alt="My LinkedIn | nicolas0mar" width="48px">](https://www.linkedin.com/in/nicolas0mar/)
+  [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" title="My DEV | nicolasomar" alt="My DEV | nicolasomar" width="48px">](https://dev.to/nicolasomar/)
+  <!-- [<img src="https://cdn.svgporn.com/logos/medium.svg" title="My Medium | @nicolasomar" alt="My Medium | @nicolasomar" width="48px">](https://medium.com/@nicolasomar/) -->
 
   ### Here are my best repos for you 👇 ###
