@@ -2,9 +2,9 @@
 
   <img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/main/assets/pusheencode.gif"/>
 
-  <p>:briefcase: I am working as a Web UI Developer at <a href="https://www.globant.com">Globant</a>.</p>
+  <p>:briefcase: I am working as a Techincal Leader and Front-end Developer at <a href="https://www.globant.com">Globant</a>.</p>
   <p>:books: I want to learn about web performance and accesibility.</p>
-  <p>:black_nib: I write from time to time in <a href="https://dev.to/nicolasomar">dev.to</a>.</p>
+  <!-- <p>:black_nib: I write from time to time in <a href="https://dev.to/nicolasomar">dev.to</a>.</p> -->
   <p>:speech_balloon: Let's talk about front-end libraries and dark mode.</p>
 
   ## Languages, Libraries & Frameworks
