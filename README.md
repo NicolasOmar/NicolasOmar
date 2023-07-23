@@ -29,7 +29,7 @@
 
   ### 👇 Lastly, here goes my selection of best repos for you 👇 ###
 
-[badge-github-stats]: https://github-readme-stats.vercel.app/api?username=nicolasomar&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight
+[badge-github-stats]: https://nicolasomar-github-readme-stats.vercel.app/api?theme=tokyonight&include_all_commits=true&count_private=true&username=nicolasomar&show_icons=true
 [link-github-stats]: https://github.com/nicolasomar
 [badge-linkedin]: https://img.shields.io/static/v1?label=%20&message=linkedin&labelColor=0077B5&color=0077B5&style=flat-square&logo=linkedin
 [link-linkedin]: https://www.linkedin.com/in/nicolas0mar/
