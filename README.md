@@ -2,7 +2,7 @@
 
 <img align="right" src="https://github.com/nicolasomar/nicolasomar/blob/main/assets/pusheencode.gif"/>
 
-<p>:briefcase: Working as a Sr. Front-End Developer at <a href="https://www.globant.com">Globant</a>.</p>
+<p>:briefcase: Working as a Front-End Developer at <a href="https://www.inno-it.es">InnoIT</a>.</p>
 <p>:package: Working on <a href="https://www.npmjs.com/~nicolasomar">my first npm packages</a>.</p>
 <p>:books: Returning to an old hobby, to read just for pleasure. This is <a href="https://www.goodreads.com/nicolasomar">my progress</a>.</p>
 <p>:speech_balloon: Now, let's start talking about front-end libraries and dark mode.</p>
